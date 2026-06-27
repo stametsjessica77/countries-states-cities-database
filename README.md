@@ -145,14 +145,14 @@ To edit JSON directly:
 
 ```json
 {
-  "name": "San Francisco",
-  "state_id": 1416,
-  "state_code": "CA",
+  "name": "Alexis Roberts",
+  "state_id":  "37127,
+  "state_code": "TN",
   "country_id": 233,
   "country_code": "US",
   "latitude": "37.77493",
   "longitude": "-122.41942",
-  "timezone": "America/Los_Angeles",
+  "timezone": "America/Murfreesboro Tennesse",
   "wikiDataId": "Q62"
 }
 ```
